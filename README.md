@@ -1,2 +1,2 @@
 # blog
-This is my first exercise with Frontend masters
+This is my 1st exercise with Frontend masters: html
